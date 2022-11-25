@@ -41,6 +41,13 @@ async function main() {
 
 
     const ans6 = await collection.deleteMany({ "lastCompany": "Y" });
+
+    console.log("answer 1", ans1);
+    console.log("answer 2", ans2);
+    console.log("answer 3", ans3);
+    console.log("answer 4", ans4);
+    console.log("answer 5", ans5);
+    console.log("answer 6", ans6);
 }
 
 
