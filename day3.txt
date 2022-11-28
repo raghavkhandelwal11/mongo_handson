@@ -1,0 +1,40 @@
+//delete using mongo client
+
+
+
+
+we will learn about a new library mongoose
+
+validation
+pre defined schemas
+insert
+find
+
+
+why do we need mongoose? 
+
+their are some additional features that comes with client
+
+-npm package
+-it helps us do schema validation
+
+- what is Schema?
+    schema tells us about the structure or the datatype or meta-data of document?
+
+Books
+
+    -title : string
+    -author: string
+    -language: string
+    -edition: string
+    -dateOfPublishing: date
+    -price: Number
+
+Authors
+    -name: string
+    -phoneNo: string
+    -DateOfBirth: date
+    -email: string
+    -Address: string
+    -Education: string
+    -noOfBooks: Number
